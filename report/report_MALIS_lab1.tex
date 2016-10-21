@@ -1,0 +1,101 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% University/School Laboratory Report
+% LaTeX Template
+% Version 3.1 (25/3/14)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Linux and Unix Users Group at Virginia Tech Wiki 
+% (https://vtluug.org/wiki/Example_LaTeX_chem_lab_report)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass{article}
+
+%\usepackage[version=3]{mhchem} % Package for chemical equation typesetting
+%\usepackage{siunitx} % Provides the \SI{}{} and \si{} command for typesetting SI units
+\usepackage{graphicx} % Required for the inclusion of images
+\usepackage{natbib} % Required to change bibliography style to APA
+\usepackage{amsmath} % Required for some math elements 
+\usepackage{listings}
+\lstset{basicstyle=\ttfamily\small, breaklines=true}
+\setlength\parindent{2pt} % Removes all indentation from paragraphs
+
+%\renewcommand{\labelenumi}{\alph{enumi}.} % Make numbering in the enumerate environment by letter rather than number (e.g. section 6)
+
+%\usepackage{times} % Uncomment to use the Times New Roman font
+
+
+%----------------------------------------------------------------------------------------
+%	DOCUMENT INFORMATION
+%----------------------------------------------------------------------------------------
+
+\title{Genetic Algorithm\\MALIS} % Title
+
+\author{Simone \textsc{Rossi}} % Author name
+
+\date{\today} % Date for the report
+
+\begin{document}
+
+\maketitle % Insert the title, author and date
+
+\begin{center}
+\begin{tabular}{l r}
+Date Performed: & data \\ % Date the experiment was performed
+Partners: & Simone Rossi \\ % Partner names
+          & Fabian Sperrle\\
+%Instructor: & Professor Smith % Instructor/supervisor
+\end{tabular}
+\end{center}
+
+% If you wish to include an abstract, uncomment the lines below
+% \begin{abstract}
+% Abstract text
+% \end{abstract}
+
+%----------------------------------------------------------------------------------------
+%	SECTION 1
+%----------------------------------------------------------------------------------------
+
+\section{Chromosome genetic operators}
+
+\textsc{Mutation Test}
+\lstinputlisting[firstline=1, lastline=16]{../result/exercise1/exercise1.txt}
+\newpage
+\textsc{Crossover Test}
+\lstinputlisting[firstline=17]{../result/exercise1/exercise1.txt}
+
+\section{Population evolution on a circle}
+\lstinputlisting[firstline=1]{../result/exercise2/exercise2.txt}
+
+\begin{figure}[!ht]
+\includegraphics[width=\textwidth]{../result/exercise2/best.png}
+\caption{Best result after 96079 generations}
+\end{figure}
+
+\newpage
+\section{Population evolution on cities in France}
+In the next table, we will report the best result of every combinations between mutation rate and population size.
+
+\begin{table}
+\centering
+\caption{Results using different combinations of mutation rate (columns) and population size (rows)}
+\begin{tabular}{c||c|c|c|c}
+&10 & 50 & 100 & 500\\
+\hline
+0.01&&&&\\
+\hline
+0.1&&&&\\
+\hline
+0.5&&&&\\
+\hline
+\end{tabular}
+\end{table}
+
+\end{document}
