@@ -1,0 +1,26 @@
+Mutation rate: 0.500, Population size: 50
+Generation:    0, population size: 50, Round-trip length: 4033.745, best 4033.745
+Generation:    1, population size: 50, Round-trip length: 3546.917, best 3546.917
+Generation:    3, population size: 50, Round-trip length: 3515.092, best 3515.092
+Generation:    6, population size: 50, Round-trip length: 3460.038, best 3460.038
+Generation:    7, population size: 50, Round-trip length: 3370.367, best 3370.367
+Generation:    8, population size: 50, Round-trip length: 3322.883, best 3322.883
+Generation:   13, population size: 50, Round-trip length: 3320.274, best 3320.274
+Generation:   19, population size: 50, Round-trip length: 3052.981, best 3052.981
+Generation:   26, population size: 50, Round-trip length: 2968.709, best 2968.709
+Generation:   33, population size: 50, Round-trip length: 2922.413, best 2922.413
+Generation:   36, population size: 50, Round-trip length: 2860.043, best 2860.043
+Generation:   88, population size: 50, Round-trip length: 2806.618, best 2806.618
+Generation:  187, population size: 50, Round-trip length: 2674.642, best 2674.642
+Generation:  210, population size: 50, Round-trip length: 2674.336, best 2674.336
+Generation:  924, population size: 50, Round-trip length: 2600.639, best 2600.639
+Generation:  926, population size: 50, Round-trip length: 2562.370, best 2562.370
+Generation: 2394, population size: 50, Round-trip length: 2550.472, best 2550.472
+Generation: 3430, population size: 50, Round-trip length: 2547.466, best 2547.466
+Generation: 3437, population size: 50, Round-trip length: 2480.727, best 2480.727
+Generation: 10271, population size: 50, Round-trip length: 2470.984, best 2470.984
+Generation: 19036, population size: 50, Round-trip length: 2467.532, best 2467.532
+Generation: 30185, population size: 50, Round-trip length: 2429.050, best 2429.050
+Generation: 34531, population size: 50, Round-trip length: 2314.010, best 2314.010
+Generation: 71820, population size: 50, Round-trip length: 2300.009, best 2300.009
+Generation: 71821, population size: 50, Round-trip length: 2259.214, best 2259.214

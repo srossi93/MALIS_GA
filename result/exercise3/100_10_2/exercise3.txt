@@ -1,0 +1,25 @@
+Mutation rate: 0.100, Population size: 100
+Generation:    0, population size: 100, Round-trip length: 4069.430, best 4069.430
+Generation:    1, population size: 100, Round-trip length: 3815.537, best 3815.537
+Generation:    2, population size: 100, Round-trip length: 3759.613, best 3759.613
+Generation:    3, population size: 100, Round-trip length: 3415.421, best 3415.421
+Generation:    8, population size: 100, Round-trip length: 3176.719, best 3176.719
+Generation:   17, population size: 100, Round-trip length: 3156.011, best 3156.011
+Generation:   20, population size: 100, Round-trip length: 3022.414, best 3022.414
+Generation:   22, population size: 100, Round-trip length: 2989.884, best 2989.884
+Generation:   31, population size: 100, Round-trip length: 2951.269, best 2951.269
+Generation:   50, population size: 100, Round-trip length: 2912.058, best 2912.058
+Generation:   65, population size: 100, Round-trip length: 2901.723, best 2901.723
+Generation:   77, population size: 100, Round-trip length: 2756.864, best 2756.864
+Generation:   84, population size: 100, Round-trip length: 2750.348, best 2750.348
+Generation:   85, population size: 100, Round-trip length: 2594.467, best 2594.467
+Generation:   96, population size: 100, Round-trip length: 2555.879, best 2555.879
+Generation:  372, population size: 100, Round-trip length: 2528.139, best 2528.139
+Generation:  391, population size: 100, Round-trip length: 2481.069, best 2481.069
+Generation: 2837, population size: 100, Round-trip length: 2459.072, best 2459.072
+Generation: 3078, population size: 100, Round-trip length: 2454.119, best 2454.119
+Generation: 9544, population size: 100, Round-trip length: 2438.388, best 2438.388
+Generation: 13529, population size: 100, Round-trip length: 2400.089, best 2400.089
+Generation: 13530, population size: 100, Round-trip length: 2361.250, best 2361.250
+Generation: 13572, population size: 100, Round-trip length: 2305.206, best 2305.206
+Generation: 31300, population size: 100, Round-trip length: 2187.186, best 2187.186

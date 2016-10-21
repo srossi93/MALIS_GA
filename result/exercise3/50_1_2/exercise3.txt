@@ -1,0 +1,25 @@
+Mutation rate: 0.010, Population size: 50
+Generation:    0, population size: 50, Round-trip length: 4139.660, best 4139.660
+Generation:    1, population size: 50, Round-trip length: 3720.652, best 3720.652
+Generation:    3, population size: 50, Round-trip length: 3601.919, best 3601.919
+Generation:    7, population size: 50, Round-trip length: 3416.349, best 3416.349
+Generation:    8, population size: 50, Round-trip length: 3192.790, best 3192.790
+Generation:   18, population size: 50, Round-trip length: 3140.066, best 3140.066
+Generation:   19, population size: 50, Round-trip length: 3109.165, best 3109.165
+Generation:   22, population size: 50, Round-trip length: 2855.037, best 2855.037
+Generation:   55, population size: 50, Round-trip length: 2831.109, best 2831.109
+Generation:   69, population size: 50, Round-trip length: 2819.263, best 2819.263
+Generation:   70, population size: 50, Round-trip length: 2707.816, best 2707.816
+Generation:  108, population size: 50, Round-trip length: 2677.890, best 2677.890
+Generation:  125, population size: 50, Round-trip length: 2554.513, best 2554.513
+Generation:  722, population size: 50, Round-trip length: 2495.864, best 2495.864
+Generation:  739, population size: 50, Round-trip length: 2464.321, best 2464.321
+Generation: 1595, population size: 50, Round-trip length: 2417.675, best 2417.675
+Generation: 1624, population size: 50, Round-trip length: 2394.497, best 2394.497
+Generation: 1625, population size: 50, Round-trip length: 2328.255, best 2328.255
+Generation: 1633, population size: 50, Round-trip length: 2198.464, best 2198.464
+Generation: 2954, population size: 50, Round-trip length: 2124.765, best 2124.765
+Generation: 3044, population size: 50, Round-trip length: 2043.912, best 2043.912
+Generation: 36770, population size: 50, Round-trip length: 2038.203, best 2038.203
+Generation: 43189, population size: 50, Round-trip length: 2037.835, best 2037.835
+Generation: 74067, population size: 50, Round-trip length: 2019.316, best 2019.316

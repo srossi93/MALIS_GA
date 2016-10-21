@@ -1,0 +1,23 @@
+Mutation rate: 0.010, Population size: 500
+Generation:    0, population size: 500, Round-trip length: 3767.310, best 3767.310
+Generation:    1, population size: 500, Round-trip length: 3631.493, best 3631.493
+Generation:    2, population size: 500, Round-trip length: 3594.940, best 3594.940
+Generation:    3, population size: 500, Round-trip length: 3446.778, best 3446.778
+Generation:    5, population size: 500, Round-trip length: 3253.232, best 3253.232
+Generation:    8, population size: 500, Round-trip length: 3197.680, best 3197.680
+Generation:   10, population size: 500, Round-trip length: 3113.855, best 3113.855
+Generation:   11, population size: 500, Round-trip length: 3049.792, best 3049.792
+Generation:   17, population size: 500, Round-trip length: 2678.607, best 2678.607
+Generation:  114, population size: 500, Round-trip length: 2671.947, best 2671.947
+Generation:  116, population size: 500, Round-trip length: 2630.246, best 2630.246
+Generation:  120, population size: 500, Round-trip length: 2614.174, best 2614.174
+Generation:  187, population size: 500, Round-trip length: 2585.681, best 2585.681
+Generation:  218, population size: 500, Round-trip length: 2585.658, best 2585.658
+Generation:  232, population size: 500, Round-trip length: 2580.897, best 2580.897
+Generation:  240, population size: 500, Round-trip length: 2357.765, best 2357.765
+Generation:  266, population size: 500, Round-trip length: 2231.208, best 2231.208
+Generation:  321, population size: 500, Round-trip length: 2228.695, best 2228.695
+Generation:  442, population size: 500, Round-trip length: 2147.044, best 2147.044
+Generation: 39932, population size: 500, Round-trip length: 2025.340, best 2025.340
+Generation: 39940, population size: 500, Round-trip length: 1983.611, best 1983.611
+Generation: 39956, population size: 500, Round-trip length: 1983.611, best 1983.611
