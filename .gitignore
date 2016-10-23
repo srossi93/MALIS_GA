@@ -30,7 +30,9 @@
 *.bin
 *.gif
 *.ppm
-
+*.aux
+*.log
+*.pdf
 # Debug files
 *.dSYM/
 *.su
