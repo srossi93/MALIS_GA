@@ -81,7 +81,7 @@ Partners: & Simone Rossi \\ % Partner names
 
 \newpage
 \section{Population evolution on cities in France}
-In the next table, we will report the best result of every combinations between mutation rate and population size.
+In the next table, we will report the best result out of three runs of every combinations between mutation rate and population size (the complete dump of the experiment can be found in the \texttt{result} directory).
 
 \begin{table}
 \centering
@@ -89,13 +89,20 @@ In the next table, we will report the best result of every combinations between 
 \begin{tabular}{c||c|c|c|c}
 &10 & 50 & 100 & 500\\
 \hline
-0.01&&&&\\
+0.01&1944&1962&2013&1983
 \hline
-0.1&&&&\\
+0.1&2076&2159&2117&2144\\
 \hline
-0.5&&&&\\
+0.5&2264&2259&2296&2217\\
 \hline
 \end{tabular}
 \end{table}
 
+As result, it seems that the best combination in out case is with a population size of 10 and a mutation rate of 0.01\%. In general, according to these results, increasing the population size doesn't heavly change the final resul; on the contrary, decreasing mutation rate, the overall performance seems to increase.
+
+\begin{figure}
+\centering
+\includegraphics[width=\textwidth]{../result/exercise3/10_1_3/best.png}
+\caption{Best result out of 36 different run with 12 different combinations of parameters}
+\end{figure}    
 \end{document}
